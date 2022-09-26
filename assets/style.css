@@ -4,7 +4,8 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: dimgray;
+    background-color: black;
+    color:beige
 }
 
 
@@ -58,12 +59,12 @@ section {
 }
 
 section>article {
-    border: 3px solid royalblue;
+    border: 3px solid black;
     border-radius: 10px;
 }
 
 .hero-image {
-    border: 2px solid gray;
+    border: 2px solid black;
     border-radius: 10px;
 }
 
